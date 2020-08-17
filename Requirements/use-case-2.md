@@ -9,6 +9,7 @@
 > beginning of each use case if this is found to be useful.
 > DELETE THIS COMMENT 
 
+Add a comment.
 
 ### Use Case Title
 > The level of detail of descriptions shall be above technical implementations of
@@ -24,3 +25,5 @@
 > Describe the consequence and benefits for the actors as a result of this use case.
 > (mandatory)
 > DELETE THIS COMMENT 
+
+Add your comment.
