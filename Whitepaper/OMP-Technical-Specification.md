@@ -4,6 +4,8 @@
 Define as it relates to Open Manufacturing Platform Activity. If it adds clarity, define what is not in the scope. DELETE THIS COMMENT 
 ```
 
+Add a note: note statement.
+
 ## References
 ### Normative References
 
